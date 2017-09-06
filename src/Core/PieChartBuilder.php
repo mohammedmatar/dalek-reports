@@ -19,24 +19,31 @@ class PieChartBuilder implements ReportBuilderInterface
 
     public function __construct( $meta, $data )
     {
-        $meta[self::HEADER_KEY] = $meta[self::LABELS_STRING];
+        if ( self::HEADER_KEY !== self::LABELS_STRING ) {
+            $meta[self::HEADER_KEY] = $meta[self::LABELS_STRING];
+            unset($meta[self::LABELS_STRING]);
+        } else {
+            $meta[self::HEADER_KEY] = $meta[self::LABELS_STRING];
+        }
         $this->meta = $meta;
         $this->data = $data;
+
+        $this->createReportJson();
     }
 
     /**
-     * @return mixed
+     * @return array
      */
     public function createReportJson()
     {
-        return $this->object = [
+        return $this->setObject([
             'meta'=> $this->meta,
             'data'=> $this->data
-        ];
+        ]);
     }
 
     /**
-     * @return mixed
+     * @return array
      */
     public function getObject()
     {
@@ -44,7 +51,15 @@ class PieChartBuilder implements ReportBuilderInterface
     }
 
     /**
-     * @return mixed
+     * @return string
+     */
+    public function getObjectAsJson()
+    {
+        return json_encode($this->object);
+    }
+
+    /**
+     * @return array
      */
     public function getHeaders()
     {
@@ -52,7 +67,7 @@ class PieChartBuilder implements ReportBuilderInterface
     }
 
     /**
-     * @return mixed
+     * @return array
      */
     public function getData()
     {

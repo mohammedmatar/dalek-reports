@@ -1,5 +1,6 @@
 {
     "name": "dalek/reports",
+    "description": "Dalek Reports - PHP library to make reporting with php much easier",
     "autoload": {
         "classmap": [
             "src/"

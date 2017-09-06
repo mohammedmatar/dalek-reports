@@ -18,8 +18,8 @@
     <?php
         $report = new \Dalek\DataTableComponent(['labels'=> ['id', 'name']], [1, 'Mohammed Matar']);
         $builder = $report->getBuilder();
-//        $report->setDimension(22, 89);
-        var_dump( $builder->getObject());
+        $report->setDimension(22, 89);
+        var_dump( $builder->getObjectAsJson());
 //        var_dump($builder->getObject());
 //        $builder->setHeaders(['name', 'age', 'weight']);
 //        var_dump($builder->getObject());

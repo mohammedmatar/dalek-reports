@@ -45,6 +45,14 @@ class DataTableBuilder implements ReportBuilderInterface
     }
 
     /**
+     * @return string
+     */
+    public function getObjectAsJson()
+    {
+        return json_encode($this->object);
+    }
+
+    /**
      * @return array
      */
     public function getHeaders()
