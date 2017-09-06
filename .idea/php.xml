@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/promises" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/psr7" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/guzzle" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpqrcode/phpqrcode" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/smarty/smarty" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/event" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/oauth2-google" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/oauth2-client" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/doctrine/instantiator" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/composer" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/version" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/diff" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/code-unit-reverse-lookup" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/resource-operations" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/object-enumerator" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/recursion-context" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/ircmaxell/random-lib" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/environment" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/ircmaxell/security-lib" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/exporter" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/hayageek/oauth2-yahoo" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/comparator" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/global-state" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/tracy/tracy" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/Unifonic/SMS-Voice-PHPSDK" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/robthree/twofactorauth" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/rakit/validation" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/mpdf/mpdf" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-code-coverage" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit-mock-objects" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-token-stream" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/psr/log" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-text-template" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/psr/http-message" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-file-iterator" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-timer" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/mtdowling/jmespath.php" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/webmozart/assert" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/reflection-common" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpspec/prophecy" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/type-resolver" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/reflection-docblock" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpmailer/phpmailer" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/setasign/fpdi" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/stevenmaguire/oauth2-microsoft" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/aws/aws-sdk-php" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/aws/aws-php-sns-message-validator" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/symfony/yaml" />
+      <path value="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/myclabs/deep-copy" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

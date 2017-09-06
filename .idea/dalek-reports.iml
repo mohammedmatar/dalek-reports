@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/Unifonic/SMS-Voice-PHPSDK" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/aws/aws-php-sns-message-validator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/aws/aws-sdk-php" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/composer" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/doctrine/instantiator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/guzzle" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/promises" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/psr7" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/hayageek/oauth2-yahoo" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/ircmaxell/random-lib" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/ircmaxell/security-lib" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/event" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/oauth2-client" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/oauth2-google" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/mpdf/mpdf" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/mtdowling/jmespath.php" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/myclabs/deep-copy" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/reflection-common" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/reflection-docblock" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/type-resolver" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpmailer/phpmailer" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpqrcode/phpqrcode" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpspec/prophecy" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-code-coverage" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-file-iterator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-text-template" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-timer" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-token-stream" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit-mock-objects" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/psr/http-message" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/psr/log" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/rakit/validation" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/robthree/twofactorauth" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/comparator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/diff" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/environment" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/exporter" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/global-state" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/object-enumerator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/recursion-context" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/resource-operations" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/version" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/setasign/fpdi" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/smarty/smarty" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/stevenmaguire/oauth2-microsoft" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/symfony/yaml" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/tracy/tracy" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/webmozart/assert" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/Unifonic/SMS-Voice-PHPSDK" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/aws/aws-php-sns-message-validator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/aws/aws-sdk-php" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/composer" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/doctrine/instantiator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/guzzle" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/promises" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/guzzlehttp/psr7" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/hayageek/oauth2-yahoo" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/ircmaxell/random-lib" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/ircmaxell/security-lib" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/event" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/oauth2-client" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/league/oauth2-google" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/mpdf/mpdf" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/mtdowling/jmespath.php" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/myclabs/deep-copy" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/reflection-common" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/reflection-docblock" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpdocumentor/type-resolver" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpmailer/phpmailer" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpqrcode/phpqrcode" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpspec/prophecy" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-code-coverage" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-file-iterator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-text-template" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-timer" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/php-token-stream" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit-mock-objects" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/psr/http-message" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/psr/log" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/rakit/validation" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/robthree/twofactorauth" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/comparator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/diff" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/environment" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/exporter" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/global-state" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/object-enumerator" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/recursion-context" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/resource-operations" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/sebastian/version" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/setasign/fpdi" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/smarty/smarty" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/stevenmaguire/oauth2-microsoft" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/symfony/yaml" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/tracy/tracy" />
+          <root url="file://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/webmozart/assert" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$USER_HOME$/Projects/SNSO-Segmented-Framework/framework/3rd-party/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

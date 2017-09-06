@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: Dalek\Reports\Tests
+    psr4_prefix: Dalek\Reports\Tests
